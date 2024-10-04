@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_Tan.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_N.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_D.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_BN.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_Tan.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_N.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_D.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_BN.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_Tan.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_N.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_MSR_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_D.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_BN.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_Tan.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_N.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_MSR_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_D.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_BN.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Materials/M_Mannequin.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01.uasset",
+				"E:/Projects/Quick Projies/PLY Gameplay/gameplay/RetailTherapy/Content/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02.uasset"
+			]
+		}
+	]
+}
