@@ -1,0 +1,6 @@
+Creating a new button:
+1. Make a child blueprint of the "ButtonBase" class found in Content/Interactables and name it whatever you like.
+2. Open the blueprint and check class defaults if you want different pressed sounds, adjustments to delays etc.
+3. Meshes & materials can be changed by clicking on the components and adjusting their properties.
+4a. To add new behaviour to a button, click on the override dropdown when hovering the functions panel and select "Button Pushed Event".
+4b. From there, add your code before/after the parent function execution and that should be set up.
